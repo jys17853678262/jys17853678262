@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="CODE. ENGINEER. CREATE. Building with code. Exploring with AI. Creating with curiosity.">
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <text x="80" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">CODE<tspan fill="#c0503a">.</tspan> ENGINEER<tspan fill="#c0503a">.</tspan> CREATE<tspan fill="#c0503a">.</tspan></text>
+  <text x="82" y="180" font-family="Georgia, 'Times New Roman', serif" font-size="19" font-style="italic" fill="#8b949e">Building with code. Exploring with AI. Creating with curiosity.</text>
+  <rect x="80" y="228" width="1040" height="1" fill="#21262d"/>
+  <rect x="80" y="227" width="140" height="3" fill="#c0503a"/>
+</svg>

@@ -1,92 +1,62 @@
-\<!-- ==================== HERO ==================== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img src="./assets/banner-light.svg" width="100%" alt="CODE. ENGINEER. CREATE. Building with code. Exploring with AI. Creating with curiosity.">
+  </picture>
+</p>
 
-\<p align="center">
-&#x20; \<img src="./assets/banner.png" width="100%" alt="Code. Engineer. Create." />
-\</p>
-
-\<h1 align="center">CODE. ENGINEER. CREATE.\</h1>
-
-\<p align="center">
-&#x20; \<b>Building with code. Exploring with AI. Creating with curiosity.\</b>
-\</p>
-
-\<p align="center">   用代码构建世界 · 用 AI 探索未来 · 用创造力实现想法 \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/AI-Exploration-black?style=flat-square](https://img.shields.io/badge/AI-Exploration-black?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Engineering-Driven-black?style=flat-square](https://img.shields.io/badge/Engineering-Driven-black?style=flat-square)" />   \<img src="[https://img.shields.io/badge/Open%20Source-First-black?style=flat-square](https://img.shields.io/badge/Open%20Source-First-black?style=flat-square)" /> \</p>
-
----
-
-## / ABOUT
-
-**Curiosity drives innovation. Code makes it real.**
+Software engineer working mostly in **Rust** and **Python**. I like problems that sit close to the machine — Windows APIs, Rust tooling, the bridge between backend types and the frontend — and ideas that are still rough enough to be interesting.
 
 热爱代码与人工智能，享受从零开始探索技术、设计架构和构建软件的过程。
 
-Passionate about software engineering and artificial intelligence. Always exploring new possibilities, experimenting with emerging technologies, and turning ideas into practical solutions.
+Currently exploring **LLMs, AI agents, and software architecture**, mostly by building small tools and learning in public.
 
-- 🤖 Exploring **LLMs, AI Agents & AI-powered applications**
-- ⚙️ Interested in **Software Architecture & Engineering**
-- 🦀 Building with **Rust** and exploring system-level development
-- 🌐 Exploring **Full-stack Development**
-- 🌱 Learning, contributing and growing with **Open Source**
+## / work
 
----
+| Project | What it does |
+| :------ | :----------- |
+| [**windows-notification**](https://github.com/jys17853678262/windows-notification) | Captures Windows toast notifications in real time through `UserNotificationListener` — multi-subscriber broadcast, filter rules, JSON Lines persistence and restart recovery. |
+| [**auto_register_for_specta**](https://github.com/jys17853678262/auto_register_for_specta) | A small tool that scans a Rust workspace and auto-registers types with `specta`, taking the boilerplate out of Tauri type exports. |
 
-## / TECHNOLOGIES
+## / stack
 
-### Programming Languages
+**Languages**<br>
+<img alt="Rust" src="https://img.shields.io/badge/Rust-1e2126?style=flat-square&logo=rust&logoColor=c0503a"> <img alt="Python" src="https://img.shields.io/badge/Python-1e2126?style=flat-square&logo=python&logoColor=c0503a"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e2126?style=flat-square&logo=typescript&logoColor=c0503a"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1e2126?style=flat-square&logo=javascript&logoColor=c0503a"> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1e2126?style=flat-square&logo=cplusplus&logoColor=c0503a">
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=rust,python,js,ts,cpp](https://skillicons.dev/icons?i=rust,python,js,ts,cpp)" /> \</p>
+**Tooling**<br>
+<img alt="Git" src="https://img.shields.io/badge/Git-1e2126?style=flat-square&logo=git&logoColor=c0503a"> <img alt="Linux" src="https://img.shields.io/badge/Linux-1e2126?style=flat-square&logo=linux&logoColor=c0503a"> <img alt="Docker" src="https://img.shields.io/badge/Docker-1e2126?style=flat-square&logo=docker&logoColor=c0503a"> <img alt="CMake" src="https://img.shields.io/badge/CMake-1e2126?style=flat-square&logo=cmake&logoColor=c0503a"> <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-1e2126?style=flat-square&logo=visualstudiocode&logoColor=c0503a">
 
-### Development & Tools
+**Exploring**<br>
+<img alt="LLMs" src="https://img.shields.io/badge/LLMs-1e2126?style=flat-square"> <img alt="AI Agents" src="https://img.shields.io/badge/AI%20Agents-1e2126?style=flat-square"> <img alt="Software Architecture" src="https://img.shields.io/badge/Software%20Architecture-1e2126?style=flat-square">
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cmake](https://skillicons.dev/icons?i=git,github,vscode,linux,docker,cmake)" /> \</p>
+## / activity
 
-### Fields of Interest
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jys17853678262/jys17853678262/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jys17853678262/jys17853678262/output/snake.svg">
+    <img width="100%" alt="Snake game eating through jys17853678262's GitHub contribution graph" src="https://raw.githubusercontent.com/jys17853678262/jys17853678262/output/snake.svg">
+  </picture>
+</p>
 
-| Field                       | Focus                                     |
-| :-------------------------- | :---------------------------------------- |
-| **Artificial Intelligence** | LLMs, AI Applications, AI Agents          |
-| **Software Engineering**    | Architecture, Design Patterns, Clean Code |
-| **Rust Development**        | Systems Programming, Performance          |
-| **Full-stack Development**  | Frontend, Backend, APIs                   |
-| **Open Source**             | Community, Collaboration, Tooling         |
+<p align="center">
+  <img width="100%" alt="Contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=jys17853678262&bg_color=00000000&color=c0503a&line=c0503a&point=6e6961&area=true&area_color=c0503a&hide_border=true&custom_title=contribution%20activity">
+</p>
 
----
-
-## / GITHUB STATISTICS
-
-\<p align="center">
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=jys17853678262&show_icons=true&hide_border=true&theme=transparent&rank_icon=github](https://github-readme-stats.vercel.app/api?username=jys17853678262\&show_icons=true\&hide_border=true\&theme=transparent\&rank_icon=github)" />
-&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=jys17853678262&layout=compact&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=jys17853678262\&layout=compact\&hide_border=true\&theme=transparent)" />
-\</p>
-
-\<p align="center">
-&#x20; \<img width="95%" src="[https://github-readme-streak-stats.herokuapp.com/?user=jys17853678262&theme=transparent&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=jys17853678262\&theme=transparent\&hide_border=true)" />
-\</p>
-
----
-
-## / CONTRIBUTION ACTIVITY
-
-\<p align="center">   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=jys17853678262&theme=minimal&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=jys17853678262\&theme=minimal\&hide_border=true\&area=true)" width="100%" /> \</p>
-
----
-
-## / PRINCIPLES
+## / principles
 
 > Great things are built, not imagined.
 >
 > 伟大的想法，值得被真正实现。
 
-- **Stay Curious.** Never stop exploring.
-- **Think Deeply.** Understand before building.
-- **Build Consistently.** Turn ideas into reality.
-- **Share Knowledge.** Grow through open source.
+- **Stay curious.** Never stop exploring.
+- **Think deeply.** Understand before building.
+- **Build consistently.** Turn ideas into reality.
+- **Share knowledge.** Grow through open source.
 
----
+## / contact
 
-\<p align="center">   \<b>THINK · BUILD · EXPLORE\</b> \</p>
+Find me on [GitHub](https://github.com/jys17853678262), or open an issue on any repository if something there is useful to you. I'm always up for collaborating on Rust tooling, AI agents, and developer tools.
 
-\<p align="center">   \<sub>Designed with curiosity. Built with passion.\</sub> \</p>
-
+<p align="center"><sub>Think. Build. Explore.</sub></p>
